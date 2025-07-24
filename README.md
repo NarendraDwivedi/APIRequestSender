@@ -1,4 +1,4 @@
-# 🛠️ AI Request Sender
+# 🛠️ API Request Sender
 
 A powerful standalone **.NET desktop app** designed as an all-in-one API testing and developer utility workbench.
 
@@ -8,7 +8,7 @@ A powerful standalone **.NET desktop app** designed as an all-in-one API testing
 
 Are you tired of switching between Postman, JWT decoder websites, Base64 converters, and text editors just to debug one API call?
 
-**AI Request Sender** simplifies your workflow. It’s a lightweight but powerful desktop tool that merges the features of multiple developer tools into a single, easy-to-use interface.
+**API Request Sender** simplifies your workflow. It’s a lightweight but powerful desktop tool that merges the features of multiple developer tools into a single, easy-to-use interface.
 
 > No more juggling browser tabs—everything you need is built right in.
 
@@ -66,9 +66,9 @@ Accessible via the **Tools** tab:
 ### 📦 Installation
 
 1. Go to the **Releases** section
-2. Download the latest version: `AIRequestSender.zip`
+2. Download the latest version: `APIRequestSender.zip`
 3. Extract the folder
-4. Run `AIRequestSender.exe` — no installation needed!
+4. Run `APIRequestSender.exe` — no installation needed!
 
 ---
 
