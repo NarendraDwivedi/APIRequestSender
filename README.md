@@ -71,6 +71,10 @@ Accessible via the **Tools** tab:
 3. Extract the folder
 4. Run `APIRequestSender.exe` — no installation needed!
 
+> ⚠️ **Note:**  
+> This release is protected with .NET obfuscation, which may trigger false-positive alerts from some antivirus programs. The app does **not** contain any malicious code.
+
+
 ---
 
 ## 📖 How to Use
