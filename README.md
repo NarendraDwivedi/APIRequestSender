@@ -3,6 +3,7 @@
 A powerful standalone **.NET desktop app** designed as an all-in-one API testing and developer utility workbench.
 
 ---
+![API Request Sender Screenshot](apirequestsender.JPG)
 
 ## 🚀 Why This Project Exists
 
